@@ -12,6 +12,6 @@ Shell; EUR 100 in each), daily data 4 Jan 2016 – 10 Feb 2023. These files are 
 | `bisectionMethod.m` | `c = bisectionMethod(f, a, b, error)` — bisection root finder |
 
 **Data.** The input workbook is a Refinitiv Datastream extract (sheet `Parametric`: date and the three mid
-prices, newest first; 1,797 daily rows). It is vendor-licensed and not redistributed: place a workbook with the
+prices, newest first; 1,797 daily rows). It is vendor-licensed and not redistributed (the published workbook has that sheet emptied): place a workbook with the
 same layout next to the scripts as `Data.xlsx`. The EM block of `Risk_finale.m` also relies on variables created
 interactively in the original MATLAB session (Distribution Fitter app); `Riuscito.m` is the self-contained version.

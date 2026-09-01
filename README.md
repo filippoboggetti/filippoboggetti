@@ -35,7 +35,7 @@ European Central Bank, DG Research (2025–26): analysis of oil-supply shocks (I
 
 ## Market risk
 
-- **Evaluating market risk models** — group project, Risk Management and Value in Banking and Insurance, Bocconi MSc, spring 2023. Parametric (RiskMetrics EWMA), hybrid (Boudoukh–Richardson–Whitelaw) and liquidity-adjusted VaR of an equal-weighted IBM–Philips–Shell portfolio on daily data 2016–2023, with a Student-t fit of the returns, serial-correlation (Durbin–Watson) checks and time aggregation to a ten-day horizon. [Slides (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_2023_market_risk_models_slides.pdf) · [Code (MATLAB)](https://github.com/filippoboggetti/filippoboggetti/tree/main/code/market_risk)
+- **Evaluating market risk models** — group project, Risk Management and Value in Banking and Insurance, Bocconi MSc, spring 2023. Parametric (RiskMetrics EWMA), hybrid (Boudoukh–Richardson–Whitelaw) and liquidity-adjusted VaR of an equal-weighted IBM–Philips–Shell portfolio on daily data 2016–2023, with a Student-t fit of the returns, serial-correlation (Durbin–Watson) checks and time aggregation to a ten-day horizon. [Slides (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_2023_market_risk_models_slides.pdf) · [Workbook (Excel, Datastream price sheet removed)](https://github.com/filippoboggetti/filippoboggetti/raw/main/assets/Boggetti_2023_market_risk_models_workbook.xlsx) · [Code (MATLAB)](https://github.com/filippoboggetti/filippoboggetti/tree/main/code/market_risk)
 
 ## Teaching
 
