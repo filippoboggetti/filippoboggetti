@@ -25,7 +25,7 @@ Interests: monetary economics — optimal policy under state-dependent pricing a
 
 ## Valuation exercises
 
-- **DiaSorin: valuation and analysis** (with Riccardo Gottardini, Felix Braun, Silvan Frutiger and Andrea Peterlin) — Fundamental Business Analysis, University of St. Gallen, exchange semester, November 2021. WACC estimation, DCF, residual-earnings and peer-multiples valuation summarised in a football-field chart. [Slides (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_Gottardini_Braun_Frutiger_Peterlin_2021_DiaSorin_valuation_slides.pdf) · [Peer multiples (Excel)](https://github.com/filippoboggetti/filippoboggetti/raw/main/assets/Boggetti_2021_DiaSorin_peer_multiples.xlsx)
+- **DiaSorin: valuation and analysis** — group project, Fundamental Business Analysis, University of St. Gallen, exchange semester, November 2021. WACC estimation, DCF, residual-earnings and peer-multiples valuation summarised in a football-field chart. [Slides (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_2021_DiaSorin_valuation_slides.pdf) · [Peer multiples (Excel)](https://github.com/filippoboggetti/filippoboggetti/raw/main/assets/Boggetti_2021_DiaSorin_peer_multiples.xlsx)
 - **Air Transport in Time of Turbulence** — industry note written for the group valuation of LATAM Airlines Group, Corporate Finance, Bocconi MSc, autumn 2022. [Note (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_2022_Air_transport_in_time_of_turbulence_LATAM_note.pdf)
 
 ## Notes
