@@ -12,8 +12,8 @@ Interests: monetary economics — optimal policy under state-dependent pricing a
 
 ## Research assistance
 
-- Karadi, Nakov, Nuño, Pastén and Thaler, [*Strike While the Iron Is Hot: Optimal Monetary Policy under State-Dependent Pricing*](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3068~6832cbba7e.en.pdf) (conditionally accepted, *American Economic Review*) — the paper's optimal-simple-rule section.
-- Jacob, Michaely and Rossi (2024), *The VAT Trap* — IGIER Visiting Students Initiative, 2023.
+- Karadi, Nakov, Nuño, Pastén and Thaler, [*Strike While the Iron Is Hot: Optimal Monetary Policy under State-Dependent Pricing*](https://github.com/peterkaradi/website/blob/main/WorkInProgress/KaradiNakovNunoPastenThaler.pdf) (conditionally accepted, *American Economic Review*) — the paper's optimal-simple-rule section.
+- Jacob, Michaely and Rossi (2024), [*The VAT Trap: How Consumption Tax Hikes Make Firms Pay Out More and Invest Less*](https://ssrn.com/abstract=4690867) — research assistant, IGIER Visiting Students Initiative (Bocconi), April–September 2023.
 
 ## Code
 
@@ -25,4 +25,4 @@ Interests: monetary economics — optimal policy under state-dependent pricing a
 
 ## Education
 
-MSc in Finance, Bocconi University (2022–, thesis in progress) · BSc in Economics and Finance (CLEF), Bocconi University, 110/110 cum laude (2019–2022) · exchange semester, University of St. Gallen (2021)
+MSc in Finance, Bocconi University (2022–) · BSc in Economics and Finance (CLEF), Bocconi University, 110/110 cum laude (2019–2022) · exchange semester, University of St. Gallen (2021)
