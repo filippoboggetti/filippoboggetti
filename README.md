@@ -1,4 +1,4 @@
-p# Filippo Felice Boggetti
+Filippo Felice Boggetti
 
 Economist · MSc in Finance candidate, Bocconi University · Research Analyst, European Central Bank — DG Research, Financial Research Division (2025–26)
 
