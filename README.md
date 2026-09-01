@@ -35,7 +35,7 @@ European Central Bank, DG Research (2025–26): analysis of oil-supply shocks (I
 
 ## Market risk
 
-- **Evaluating market risk models** — group project, Risk Management and Value in Banking and Insurance, Bocconi MSc, spring 2023. Parametric (RiskMetrics EWMA), hybrid (Boudoukh–Richardson–Whitelaw) and liquidity-adjusted VaR of an equal-weighted IBM–Philips–Shell portfolio on daily data 2016–2023, with a Student-t fit of the returns, serial-correlation (Durbin–Watson) checks and time aggregation to a ten-day horizon. [Slides (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_2023_market_risk_models_slides.pdf) · [Workbook (Excel, Datastream price sheet removed)](https://github.com/filippoboggetti/filippoboggetti/raw/main/assets/Boggetti_2023_market_risk_models_workbook.xlsx) · [Code (MATLAB)](https://github.com/filippoboggetti/filippoboggetti/tree/main/code/market_risk)
+- **Evaluating market risk models** — group project, Risk Management and Value in Banking and Insurance, Bocconi MSc, spring 2023. Parametric (RiskMetrics EWMA), hybrid (Boudoukh–Richardson–Whitelaw) and liquidity-adjusted VaR of an equal-weighted IBM–Philips–Shell portfolio on daily data 2016–23, with a Student-t fit of the returns, serial-correlation (Durbin–Watson) checks and time aggregation to a ten-day horizon. [Slides (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_2023_market_risk_models_slides.pdf) · [Report (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_2023_market_risk_models_report.pdf) · [Workbook (Excel, Datastream price sheet removed)](https://github.com/filippoboggetti/filippoboggetti/raw/main/assets/Boggetti_2023_market_risk_models_workbook.xlsx) · [Code (MATLAB)](https://github.com/filippoboggetti/filippoboggetti/tree/main/code/market_risk)
 
 ## Teaching
 
@@ -44,8 +44,8 @@ European Central Bank, DG Research (2025–26): analysis of oil-supply shocks (I
 ## Awards
 
 - **Bocconi Graduate Merit Award** (September 2022 – September 2024) — full tuition waiver for the MSc in Finance, reserved for students in the 98th percentile.
-- **Mario Negri Scholarship** (2014–2019) — high-school scholarship awarded on the basis of GPA.
+- **Mario Negri Scholarship** (2014–19) — high-school scholarship awarded on the basis of GPA.
 
 ## Education
 
-MSc in Finance, Bocconi University · BSc in Economics and Finance (CLEF), Bocconi University, 110/110 cum laude (2019–2022) · exchange semester, University of St. Gallen (2021)
+MSc in Finance, Bocconi University · BSc in Economics and Finance (CLEF), Bocconi University, 110/110 cum laude (2019–22) · exchange semester, University of St. Gallen (2021)
