@@ -22,19 +22,20 @@ Interests: monetary economics — optimal policy under state-dependent pricing a
 | [rbc-staggered-nash-italy](https://github.com/filippoboggetti/rbc-staggered-nash-italy) | BSc thesis: Gertler–Trigari (2009) RBC model with staggered Nash bargaining, calibrated to Italy (Dynare/MATLAB), with the thesis PDF |
 | [freefem-american-basket-put](https://github.com/filippoboggetti/freefem-american-basket-put) | Finite-element pricing of an American put on the maximum of two assets (FreeFem++), with the project report |
 | [favero2013-gvar-replication-R](https://github.com/filippoboggetti/favero2013-gvar-replication-R) | R replication of Favero (2013), euro-area government bond spreads in a GVAR |
+| [uk-cptpp-trade-caliendo-parro](https://github.com/filippoboggetti/uk-cptpp-trade-caliendo-parro) | *Far Apart: The UK and Pacific Trade* (with Matteo Bertasio and Luca Bottigelli): UK accession to the CPTPP in the Caliendo–Parro (2015) multi-sector Ricardian model — counterfactual scripts (MATLAB) and slides |
 
-## Valuation exercises
+## Finance at home — valuation exercises
 
-- **DiaSorin: valuation and analysis** — group project, Fundamental Business Analysis, University of St. Gallen, exchange semester, November 2021. WACC estimation, DCF, residual-earnings and peer-multiples valuation summarised in a football-field chart. [Slides (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_2021_DiaSorin_valuation_slides.pdf) · [Peer multiples (Excel)](https://github.com/filippoboggetti/filippoboggetti/raw/main/assets/Boggetti_2021_DiaSorin_peer_multiples.xlsx)
-- **Air Transport in Time of Turbulence** — industry note written for the group valuation of LATAM Airlines Group, Corporate Finance, Bocconi MSc, autumn 2022. [Note (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_2022_Air_transport_in_time_of_turbulence_LATAM_note.pdf)
+- **DiaSorin: valuation and analysis** — group project, Fundamental Business Analysis, University of St. Gallen, exchange semester, November 2021. WACC estimation and DCF, residual-earnings and peer-multiples valuations of DiaSorin Group, presented in a 27-slide deck with a football-field summary. [Slides (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_2021_DiaSorin_valuation_slides.pdf)
+- **Air Transport in Time of Turbulence** — industry note written for a group valuation of LATAM Airlines Group, Corporate Finance, Bocconi MSc, autumn 2022: global airline-market size and returns, the aviation value chain and the post-Covid traffic recovery. [Note (PDF, 2 pp)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_2022_Air_transport_in_time_of_turbulence_LATAM_note.pdf)
 
 ## Notes
 
-- **Metric spaces, correspondences and the Bellman equation** — notes written for Advanced Macroeconomics, Bocconi MSc, October 2023 (metric and complete metric spaces, compactness, correspondences, the Maximum Theorem, the contraction-mapping argument behind the Bellman equation). [Notes (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_2023_Notes_metric_spaces_correspondences_Bellman.pdf)
+- **Metric spaces, correspondences and the Bellman equation** — ten-page working notes for Advanced Macroeconomics, Bocconi MSc, 2023: metric and complete metric spaces, compactness, correspondences, Berge's Maximum Theorem and an outline of the contraction-mapping approach to the Bellman equation. [Notes (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_2023_Notes_metric_spaces_correspondences_Bellman.pdf)
 
 ## Awards
 
-- **Bocconi Graduate Merit Award** (2022–2024) — full tuition waiver for the MSc in Finance, reserved for students in the 98th percentile.
+- **Bocconi Graduate Merit Award** (September 2022 – September 2024) — full tuition waiver for the MSc in Finance, reserved for students in the 98th percentile.
 - **Mario Negri Scholarship** (2014–2019) — high-school scholarship awarded on the basis of GPA.
 
 ## Education
