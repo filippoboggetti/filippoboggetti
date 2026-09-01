@@ -4,7 +4,7 @@ Economist · MSc in Finance candidate, Bocconi University · Research Analyst, E
 
 Interests: monetary economics — optimal policy under state-dependent pricing and non-linear Phillips curves — labour-market frictions, numerical methods for macro and finance.
 
-[CV (PDF)](assets/Boggetti_CV.pdf) · filippo.boggetti@studbocconi.it
+[CV (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_CV.pdf) · filippo.boggetti@studbocconi.it
 
 ## Working paper
 
