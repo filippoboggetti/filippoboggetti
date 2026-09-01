@@ -1,6 +1,4 @@
-<img src="assets/photo.jpg" alt="Filippo Felice Boggetti" width="160" align="right" style="border-radius:50%">
-
-# Filippo Felice Boggetti
+p# Filippo Felice Boggetti
 
 Economist · MSc in Finance candidate, Bocconi University · Research Analyst, European Central Bank — DG Research, Financial Research Division (2025–26)
 
