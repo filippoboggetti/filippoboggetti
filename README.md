@@ -29,9 +29,9 @@ Interests: monetary economics — optimal policy under state-dependent pricing a
 - **DiaSorin: valuation and analysis** — group project, Fundamental Business Analysis, University of St. Gallen, exchange semester, November 2021. WACC estimation and DCF, residual-earnings and peer-multiples valuations of DiaSorin Group, presented in a 27-slide deck with a football-field summary. [Slides (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_2021_DiaSorin_valuation_slides.pdf)
 - **Air Transport in Time of Turbulence** — industry note written for a group valuation of LATAM Airlines Group, Corporate Finance, Bocconi MSc, autumn 2022: global airline-market size and returns, the aviation value chain and the post-Covid traffic recovery. [Note (PDF, 2 pp)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_2022_Air_transport_in_time_of_turbulence_LATAM_note.pdf)
 
-## Notes
+## Teaching
 
-- **Metric spaces, correspondences and the Bellman equation** — ten-page working notes for Advanced Macroeconomics, Bocconi MSc, 2023: metric and complete metric spaces, compactness, correspondences, Berge's Maximum Theorem and an outline of the contraction-mapping approach to the Bellman equation. [Notes (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_2023_Notes_metric_spaces_correspondences_Bellman.pdf)
+- **Bellman: putting the tie** — ten-page notes on metric spaces, correspondences and the Maximum Theorem, written for Advanced Macroeconomics, Bocconi MSc, October 2023: complete metric spaces and the contraction-mapping theorem, Blackwell's sufficient conditions, compactness, hemicontinuous correspondences, Berge's Maximum Theorem and the Bellman equation. [Notes (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_2023_Bellman_putting_the_tie.pdf)
 
 ## Awards
 
