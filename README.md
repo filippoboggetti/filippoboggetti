@@ -23,6 +23,20 @@ Interests: monetary economics — optimal policy under state-dependent pricing a
 | [freefem-american-basket-put](https://github.com/filippoboggetti/freefem-american-basket-put) | Finite-element pricing of an American put on the maximum of two assets (FreeFem++), with the project report |
 | [favero2013-gvar-replication-R](https://github.com/filippoboggetti/favero2013-gvar-replication-R) | R replication of Favero (2013), euro-area government bond spreads in a GVAR |
 
+## Valuation exercises
+
+- **DiaSorin: valuation and analysis** (with Riccardo Gottardini, Felix Braun, Silvan Frutiger and Andrea Peterlin) — Fundamental Business Analysis, University of St. Gallen, exchange semester, November 2021. WACC estimation, DCF, residual-earnings and peer-multiples valuation summarised in a football-field chart. [Slides (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_Gottardini_Braun_Frutiger_Peterlin_2021_DiaSorin_valuation_slides.pdf) · [Peer multiples (Excel)](https://github.com/filippoboggetti/filippoboggetti/raw/main/assets/Boggetti_2021_DiaSorin_peer_multiples.xlsx)
+- **Air Transport in Time of Turbulence** — industry note written for the group valuation of LATAM Airlines Group, Corporate Finance, Bocconi MSc, autumn 2022. [Note (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_2022_Air_transport_in_time_of_turbulence_LATAM_note.pdf)
+
+## Notes
+
+- **Metric spaces, correspondences and the Bellman equation** — notes written for Advanced Macroeconomics, Bocconi MSc, October 2023 (metric and complete metric spaces, compactness, correspondences, the Maximum Theorem, the contraction-mapping argument behind the Bellman equation). [Notes (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_2023_Notes_metric_spaces_correspondences_Bellman.pdf)
+
+## Awards
+
+- **Bocconi Graduate Merit Award** (2022–2024) — full tuition waiver for the MSc in Finance, reserved for students in the 98th percentile.
+- **Mario Negri Scholarship** (2014–2019) — high-school scholarship awarded on the basis of GPA.
+
 ## Education
 
 MSc in Finance, Bocconi University · BSc in Economics and Finance (CLEF), Bocconi University, 110/110 cum laude (2019–2022) · exchange semester, University of St. Gallen (2021)
