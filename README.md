@@ -25,4 +25,4 @@ Interests: monetary economics — optimal policy under state-dependent pricing a
 
 ## Education
 
-MSc in Finance, Bocconi University (2022–) · BSc in Economics and Finance (CLEF), Bocconi University, 110/110 cum laude (2019–2022) · exchange semester, University of St. Gallen (2021)
+MSc in Finance, Bocconi University · BSc in Economics and Finance (CLEF), Bocconi University, 110/110 cum laude (2019–2022) · exchange semester, University of St. Gallen (2021)
