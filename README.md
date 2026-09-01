@@ -15,6 +15,10 @@ Interests: monetary economics — optimal policy under state-dependent pricing a
 - Karadi, Nakov, Nuño, Pastén and Thaler, [*Strike While the Iron Is Hot: Optimal Monetary Policy under State-Dependent Pricing*](https://github.com/peterkaradi/website/blob/main/WorkInProgress/KaradiNakovNunoPastenThaler.pdf) (conditionally accepted, *American Economic Review*) — the paper's optimal-simple-rule section.
 - Jacob, Michaely and Rossi (2024), [*The VAT Trap: How Consumption Tax Hikes Make Firms Pay Out More and Invest Less*](https://ssrn.com/abstract=4690867) — research assistant, IGIER Visiting Students Initiative (Bocconi), April–September 2023.
 
+## Policy work
+
+European Central Bank, DG Research (2025–26): analysis of oil-supply shocks (Iran) presented to Executive Board member Isabel Schnabel; regulatory complexity and bank competitiveness presented to the Executive Board, including a briefing for President Lagarde. The underlying notes and slides are ECB-internal and are not shared here.
+
 ## Code
 
 | Repository | What it is |
