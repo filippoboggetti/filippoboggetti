@@ -4,6 +4,8 @@ Economist · MSc in Finance candidate, Bocconi University · Research Analyst, E
 
 Interests: monetary economics — optimal policy under state-dependent pricing and non-linear Phillips curves — labour-market frictions, numerical methods for macro and finance.
 
+***Models (and muddles).*** Contract theory taught me to enjoy twisted incentives, hence M&A and private equity. A few old valuations are below; the rest stay in the drawer, since a model is only as good as the story its author tells himself, and reality has since rewritten mine. I still do them, on Beck’s principle: his [1933 Tube map](https://en.wikipedia.org/wiki/Tube_map) was wrong about every distance and got everyone to the right station — though nobody ever paid twelve times EBITDA for the map.
+
 [Website](https://sites.google.com/view/filippoboggetti) · [CV (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_CV.pdf) · filippo.boggetti@studbocconi.it
 
 ## Working paper
