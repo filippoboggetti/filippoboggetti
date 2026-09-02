@@ -10,6 +10,8 @@ Interests: monetary economics — optimal policy under state-dependent pricing a
 
 [Website](https://sites.google.com/view/filippoboggetti) · [CV (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_CV.pdf) · filippo.boggetti@studbocconi.it
 
+Tools: Dynare, MATLAB, R, Python, LaTeX; AI-assisted development with Claude Code and OpenAI Codex (agentic coding and audit workflows).
+
 ## Working paper
 
 **Optimal Monetary Policy and Non-Linear Pass-Through** (with Tommaso Monacelli, Dominik Thaler and Peter Karadi) — first draft. State-dependent pricing in a small open economy yields a convex Phillips curve and size-dependent import pass-through; optimal monetary policy leans harder against large cost shocks.
