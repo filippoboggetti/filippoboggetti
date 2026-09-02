@@ -23,7 +23,7 @@ Tools: Dynare, MATLAB, R, Python, LaTeX; AI-assisted development with Claude Cod
 
 ## Policy work
 
-European Central Bank, DG Research (2025–26): analysis of oil-supply shocks (Iran) presented to Executive Board member Isabel Schnabel; regulatory complexity and bank competitiveness presented to the Executive Board, including a briefing for President Lagarde. The underlying notes and slides are ECB-internal and are not shared here.
+European Central Bank, DG Research (2025–26): analysis of oil-supply shocks (Iran), with Anton Nakov and Oreste Tristani, presented to Executive Board member Isabel Schnabel; regulatory complexity and bank competitiveness, with David Marqués-Ibáñez, presented to the Executive Board, including a briefing for President Lagarde. The underlying notes and slides are ECB-internal and are not shared here.
 
 ## Code
 
