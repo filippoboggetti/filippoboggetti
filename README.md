@@ -6,7 +6,7 @@ Interests: monetary economics — optimal policy under state-dependent pricing a
 
 ***Models (and muddles).*** Contract theory taught me to enjoy twisted incentives, hence a passion for M&A and private equity that I have so far indulged mostly on paper. A few old valuations are below; the rest stay in the drawer, since a model is only as good as the story its author tells himself, and reality has since rewritten mine. I still do them, on Beck’s principle: his [1933 Tube map](https://en.wikipedia.org/wiki/Tube_map) was wrong about every distance and got everyone to the right station, though nobody ever paid twelve times EBITDA for the map.¹
 
-¹ Ricordo ancora che, secondo U. Eco: *Per ogni problema complesso, c’è una soluzione semplice, ma è sbagliata.* In valuation the simple solution is usually a multiple.
+¹ I still recall that, according to U. Eco (*Il pendolo di Foucault*, 1988, after H. L. Mencken’s *The Divine Afflatus*, 1917): *Per ogni problema complesso, c’è una soluzione semplice, ma è sbagliata.* In valuation the simple solution is usually a multiple.
 
 [Website](https://sites.google.com/view/filippoboggetti) · [CV (PDF)](https://cdn.jsdelivr.net/gh/filippoboggetti/filippoboggetti@main/assets/Boggetti_CV.pdf) · filippo.boggetti@studbocconi.it
 
